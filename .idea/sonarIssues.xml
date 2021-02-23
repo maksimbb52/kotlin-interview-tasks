@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/charge/discount/ChargeDiscountCalculatorImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/converter/LetterCardDataFetcherToDTOConverterImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/converter/LetterCardListUtilsImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/payment/uniteller/UnitellerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/payment/uniteller/UnitellerServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/service/letters/CheckingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/util/DateUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/test/java/ru/russianpost/erl/webportal/converter/LetterCardDataFetcherToDTOConverterImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/java/ru/russianpost/erl/webportal/controller/api/CheckingLetterController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/java/ru/russianpost/erl/webportal/controller/api/DownloadControllerDataFetcher2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/meta/win/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/test/java/ru/russianpost/erl/webportal/controller/api/DownloadControllerDataFetcher2Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/user-identification/user-identification.assembly/src/main/java/ru/russianpost/erl/useridentification/physical/repository/ConfirmedContactRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/user-identification/user-identification.assembly/src/main/java/ru/russianpost/erl/useridentification/physical/repository/UserConnectedSystemRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/user-identification/user-identification.assembly/src/main/java/ru/russianpost/erl/useridentification/physical/service/PersonSettingsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/user-identification/user-identification.assembly/src/main/java/ru/russianpost/erl/useridentification/service/legal/UserConnectedSystemService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/user-identification/user-identification.assembly/src/main/java/ru/russianpost/erl/useridentification/service/legal/UserConnectedSystemServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/99405a84-22c4-4852-9974-783bcc913591/console.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../erl-confirmation/erl-confirmation.assembly/src/main/java/ru/russianpost/erl/confirmation/controller/ConfirmationControllerImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../erl-partners/erl-partners.assembly/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../erl-partners/erl-partners.assembly/src/main/java/ru/russianpost/erl/partners/service/impl/ConfirmationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../erl-partners/erl-partners.assembly/src/main/java/ru/russianpost/erl/partners/service/impl/RegistrationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../erl-partners/erl-partners.assembly/src/main/java/ru/russianpost/erl/partners/service/impl/SettingsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../erl-partners/erl-partners.assembly/src/main/java/ru/russianpost/erl/partners/util/LetterUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/demo/kotlin/BinaryTreeToSortedArray.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/demo/kotlin/FindTermsCombinationsForNumber.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/demo/kotlin/IterateOverBinaryTree.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/demo/kotlin/NumberOperations.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/demo/kotlin/RemainOneAmongDuplicates.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/demo/kotlin/model/Node.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/kotlin/demo/NumberOperations.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/kotlin/demo/StringOperations.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/kotlin/demo/kotlin/BinaryTreeToSortedArray.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/kotlin/demo/kotlin/FindTermsCombinationsForNumberTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/kotlin/demo/kotlin/FindTermsCombinationsForNumberTest.kt.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/kotlin/demo/kotlin/NumberOperationsTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/kotlin/demo/kotlin/RemailOneAmongDuplicates.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/kotlin/demo/kotlin/RemailOneAmongDuplicatesTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/kotlin/demo/kotlin/RemainOneAmongDuplicatesTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/kotlin/kotlin/demo/ExtractDateAndIdTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/kotlin/kotlin/demo/NumberOperationsTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/kotlin/kotlin/demo/StringOperations.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/kotlin/kotlin/demo/StringOperationsTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../untitled/src/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
