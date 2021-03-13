@@ -8,7 +8,37 @@
             <set />
           </value>
         </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/environment-config/manifests/site.pp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core-api/src/main/java/ru/russianpost/erl/core/api/webportal/model/result/CheckRemainingAttemptsResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core-api/src/main/java/ru/russianpost/erl/core/api/webportal/model/result/CheckingLetterResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core-api/src/main/java/ru/russianpost/erl/core/api/webportal/model/result/enums/DataFetcherClientErrorEnum.java">
           <value>
             <set />
           </value>
@@ -18,7 +48,37 @@
             <set />
           </value>
         </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/ValidationException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/charge/discount/ChargeDiscountCalculatorImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/client/PostIdHiddenClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/controller/CustomErrorController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/controller/DataFetcherPaymentController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/controller/api/CheckingLetterController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/controller/api/LettersControllerDataFetcher.java">
           <value>
             <set />
           </value>
@@ -33,6 +93,71 @@
             <set />
           </value>
         </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/exception/ApiClientException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/exception/ApiCommonException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/exception/ApiServerException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/exception/DataFetcherLetterNotFoundException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/exception/PaymentRuntimeException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/exception/UnitellerBusinessException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/exception/UnitellerException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/exception/UnitellerRuntimeException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/letter/service/LetterCardValidationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/letter/service/impl/LetterCardServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/letter/service/impl/LetterCardValidationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/model/PostIdHiddenPersonModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/model/accesses/RequestToCheckLetter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/payment/uniteller/UnitellerService.java">
           <value>
             <set />
@@ -43,7 +168,62 @@
             <set />
           </value>
         </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/payment/uniteller/function/ReturnUrlFunctionMobileUrl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/service/PostIdSsoClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/service/SpringWebClientErrorDecoder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/service/datafetcher/DataFetcherCommonServiceV2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/service/datafetcher/DataFetcherPagingServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/service/letters/CheckingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/service/validation/AccessValidationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/service/validation/ValidationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/service/validation/impl/AccessValidationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/service/validation/impl/AccessValidationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/service/validation/impl/CheckRemainingAttemptsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/service/validation/impl/ValidationService.java">
           <value>
             <set />
           </value>
@@ -53,7 +233,67 @@
             <set />
           </value>
         </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/util/ValidationUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/validation/util/ResponseExceptionUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/java/ru/russianpost/erl/webportal/validation/util/ValidationUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/meta/win/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/main/meta/win/logback.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/test/java/ru/russianpost/erl/webportal/controller/api/CheckingLetterControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/test/java/ru/russianpost/erl/webportal/converter/LetterCardDataFetcherToDTOConverterImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/test/java/ru/russianpost/erl/webportal/letter/service/impl/LetterCardServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.assembly/src/test/java/ru/russianpost/erl/webportal/service/letters/CheckingServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-core/erl-core.puppet-config/src/main/puppet/templates/application.properties.erb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/java/ru/russianpost/erl/webportal/aspect/ExceptionHandlerAdvice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/java/ru/russianpost/erl/webportal/controller/DataFetcherPaymentController.java">
           <value>
             <set />
           </value>
@@ -68,12 +308,92 @@
             <set />
           </value>
         </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/java/ru/russianpost/erl/webportal/payment/uniteller/UnitellerServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/java/ru/russianpost/erl/webportal/payment/uniteller/client/PaymentResourceClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/java/ru/russianpost/erl/webportal/payment/uniteller/client/UnitellerPaymentResourceClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/java/ru/russianpost/erl/webportal/payment/uniteller/function/AdditionalDataEmailFunctionImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/java/ru/russianpost/erl/webportal/security/domain/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/java/ru/russianpost/erl/webportal/service/CheckingServiceClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/java/ru/russianpost/erl/webportal/service/SpringWebClientErrorDecoder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/java/ru/russianpost/erl/webportal/service/checking/CheckingLetterService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/java/ru/russianpost/erl/webportal/service/checking/CheckingLetterServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/java/ru/russianpost/erl/webportal/service/checking/CheckingServiceClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/java/ru/russianpost/erl/webportal/utils/ResponseExceptionUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/main/meta/win/application.properties">
           <value>
             <set />
           </value>
         </entry>
         <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/test/java/ru/russianpost/erl/webportal/controller/api/DownloadControllerDataFetcher2Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/test/java/ru/russianpost/erl/webportal/payment/uniteller/UnitellerServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/test/java/ru/russianpost/erl/webportal/service/checking/CheckingLetterServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.assembly/src/test/resources/application-test.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/erl-web/erl-web.puppet-config/src/main/puppet/templates/application.properties.erb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/JavaProjects/user-identification/CQL/create_tables.cql">
           <value>
             <set />
           </value>
@@ -103,12 +423,67 @@
             <set />
           </value>
         </entry>
+        <entry key="C:/JavaProjects/user-identification/user-identification.assembly/src/main/meta/win/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/27e9170a-6305-4028-949b-2bbb067f9682/console.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/99405a84-22c4-4852-9974-783bcc913591/console.sql">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../eps-edelivery-notices/eps-edelivery-notices.assembly/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../eps-edelivery-notices/eps-edelivery-notices.puppet-config/src/main/puppet/templates/app.sysconfig.erb">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../erl-confirmation/erl-confirmation.assembly/src/main/java/ru/russianpost/erl/confirmation/controller/ConfirmationControllerImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../erl-mobile/erl-mobile.assembly/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../erl-mobile/erl-mobile.assembly/src/main/java/ru/russianpost/erl/mobile/controller/DataFetcherPaymentController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../erl-mobile/erl-mobile.assembly/src/main/java/ru/russianpost/erl/mobile/controller/SpringWebClientErrorDecoder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../erl-mobile/erl-mobile.assembly/src/main/java/ru/russianpost/erl/mobile/exception/FeignClientException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../erl-mobile/erl-mobile.assembly/src/main/java/ru/russianpost/erl/mobile/exception/UnitellerBusinessException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../erl-mobile/erl-mobile.assembly/src/main/java/ru/russianpost/erl/mobile/service/DataFetcherPaymentServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../erl-mobile/erl-mobile.assembly/src/main/java/ru/russianpost/erl/mobile/util/ResponseExceptionUtil.java">
           <value>
             <set />
           </value>
@@ -138,12 +513,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../erl-partners/erl-partners.assembly/src/main/meta/win/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/build.gradle">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/kotlin/demo/kotlin/BinaryTreeToSortedArray.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/demo/kotlin/CheckNumberHasTwoTerms.kt">
           <value>
             <set />
           </value>
@@ -184,6 +569,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/kotlin/demo/kotlin/BinaryTreeToSortedArray.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/kotlin/demo/kotlin/CheckNumberHasTwoTermsTest.kt">
           <value>
             <set />
           </value>
